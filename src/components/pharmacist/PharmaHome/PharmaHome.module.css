@@ -1,0 +1,27 @@
+.outer{
+    width: 70%;
+    margin: 10px auto;
+}
+
+.patientId{
+    width: 50%;
+    margin-top: 40px;
+}
+
+.billing{
+    margin-top: 80px;
+}
+
+.submitButton{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.totalTable{
+    width: 500px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: bold;
+}

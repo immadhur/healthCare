@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: monospace;
+    }
+
+    .name{
+        margin-left: 60px;
+        font-size: 18px;
+        font-weight: bold;
+        display: inline;
+    }

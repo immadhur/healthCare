@@ -1,0 +1,38 @@
+.searchBox{
+    width: 80%;
+    /* border-radius: 30px; */
+    box-shadow: 1px 1px 14px grey;
+    background: white;
+    margin: 20px 10%;
+    margin-top: 50px;
+    border: none;
+    padding: 12px;
+}
+
+.patients{
+    /* width: 80%; */
+    margin: 20px 10%;
+    /* min-width: 500px; */
+}
+
+.headerRow{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    margin: 40px 80px;
+    font-weight: bold;
+}
+
+.patientTable{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    margin: 20px 80px;
+}
+
+.noPatient{
+    width: 100%;
+    color: rgb(179, 178, 178);
+    font-size: 22px;
+    /* font-weight: bold; */
+    margin: 70px 33%;
+    
+}

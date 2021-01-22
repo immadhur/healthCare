@@ -1,0 +1,25 @@
+.outer{
+width: 100%;
+}
+
+.title{
+text-align: center;
+font-size: 22px;
+font-family: monospace;
+}
+
+.registerButton{
+    background: white;
+    color: blue;
+    border: 1px solid blue;
+    border-radius: 4px;
+    padding: 4px 8px;
+    box-shadow: 1px 3px 5px grey;
+    display: block;
+    margin-left: 85%;
+    /* width: 170px; */
+}
+
+.registerButton:hover{
+    box-shadow: 1px 3px 10px grey;
+}
